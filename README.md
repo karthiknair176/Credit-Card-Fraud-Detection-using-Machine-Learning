@@ -9,6 +9,24 @@ Credit card fraud has become one of the most pressing issues in today’s financ
 
 The primary beneficiaries of this project are banks, e-commerce platforms, and customers. For financial institutions, the system helps reduce revenue loss and enhance transaction security. For customers, it provides an added layer of trust and protection in digital payments.
 
+# Algorithms Used
+
+## 1. K-Nearest Neighbors (KNN):
+
+A distance-based algorithm that classifies each transaction by analyzing the majority class
+among its k nearest neighbors.
+
+## 2. Support Vector Machine (SVM):
+
+A kernel-based classifier that constructs an optimal hyperplane to separate fraudulent and
+legitimate transactions, particularly effective in high-dimensional spaces.
+
+
+
+## Python Libraries Used
+• pandas, numpy – Data manipulation and array operations
+• matplotlib, seaborn – Visualization and confusion matrices
+• scikit-learn – Model training, evaluation, and scaling
 
 ## Unique Aspect of the Project
 
